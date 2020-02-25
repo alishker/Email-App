@@ -3,3 +3,5 @@ this is an email like app that can send message. i made simply to practice javas
 eventlisteners
 functions
 DOM etc
+
+more Features are on the way
